@@ -11,4 +11,5 @@ langchain_experimental
 langchain_text_splitters
 langchain_core
 setuptools
+langchain_google_genai
 -e .
